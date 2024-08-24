@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://pkt654.github.io</id>
+    <title>pkt654</title>
+    <updated>2024-08-24T15:06:39.269Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <link rel="alternate" href="https://pkt654.github.io"/>
+    <link rel="self" href="https://pkt654.github.io/atom.xml"/>
+    <subtitle>电脑课 启动！</subtitle>
+    <logo>https://pkt654.github.io/images/avatar.png</logo>
+    <icon>https://pkt654.github.io/favicon.ico</icon>
+    <rights>All rights reserved 2024, pkt654</rights>
+    <entry>
+        <title type="html"><![CDATA[代码]]></title>
+        <id>https://pkt654.github.io/post/dai-ma/</id>
+        <link href="https://pkt654.github.io/post/dai-ma/">
+        </link>
+        <updated>2024-08-24T14:56:24.000Z</updated>
+        <content type="html"><![CDATA[<p>网络<br>
+taskkill /f /im GATESRV.exe<br>
+taskkill /f /im MasterHelper.exe<br>
+sc stop TDNetFilter</p>
+<p>查IP<br>
+ipconfig</p>
+]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[一些需要的链接]]></title>
+        <id>https://pkt654.github.io/post/yi-xie-xu-yao-de-lian-jie/</id>
+        <link href="https://pkt654.github.io/post/yi-xie-xu-yao-de-lian-jie/">
+        </link>
+        <updated>2024-08-14T15:58:37.000Z</updated>
+        <content type="html"><![CDATA[<p>极域软件：<br>
+https://wwdn.lanzouw.com/b00rn1fsyf<br>
+密码:6666</p>
+<p>我的世界：<br>
+启动器 https://wwdn.lanzouw.com/b00rmxa46j<br>
+密码:0000</p>
+<p>地图 https://wwdn.lanzouw.com/b00rmy1yuf<br>
+密码:0000</p>
+<p>模组 https://wwdn.lanzouw.com/b00rn1z85g<br>
+密码:0000</p>
+<p>存档 https://wwdn.lanzouw.com/b00rn1zpud<br>
+密码:0000</p>
+<p>其他游戏：</p>
+<p>游戏 https://wwdn.lanzouw.com/b00rn1zfng<br>
+密码:0000</p>
+<p>恶魔轮盘赌 https://pan.huang1111.cn/s/gg8ekHQ<br>
+密码：0000</p>
+<p>（需要在家中登录米哈游通行证把账号验证关闭，这样不会弹出要验证码）<br>
+云原神：https://mhyurl.cn/4fIeFRAL</p>
+<p>云崩铁：https://mhyurl.cn/7J3gFBAL</p>
+]]></content>
+    </entry>
+</feed>
